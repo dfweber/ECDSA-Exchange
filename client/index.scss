@@ -1,5 +1,5 @@
 body {
-  font-family: 'Muli', sans-serif;
+  font-family: "Muli", sans-serif;
   font-weight: 300;
 }
 
@@ -7,6 +7,8 @@ input {
   padding: 9px 25px;
   border-radius: 5px;
   text-transform: uppercase;
+  display: block;
+  margin-bottom: 15px;
 }
 
 #balance {
@@ -31,7 +33,7 @@ input {
     border-radius: 10px;
 
     h1 {
-        margin: 0 0 20px;
+      margin: 0 0 20px;
     }
   }
 }
